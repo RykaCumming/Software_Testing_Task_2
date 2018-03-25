@@ -2,10 +2,13 @@ import static org.junit.Assert.assertEquals;
 
 import org.junit.Before;
 import org.junit.Test;
-import st.EntryMap;
-import st.TemplateEngine;
-import st.SimpleTemplateEngine;
 
+import st.EntryMap;
+import st.SimpleTemplateEngine;
+import st.TemplateEngine;
+
+
+//Test
 public class TemplateEngineTest {
 
     private EntryMap map;//
