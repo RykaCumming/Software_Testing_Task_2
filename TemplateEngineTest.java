@@ -8,7 +8,7 @@ import st.SimpleTemplateEngine;
 
 public class TemplateEngineTest {
 
-    private EntryMap map;
+    private EntryMap map;//
 
     private TemplateEngine engine;
     
