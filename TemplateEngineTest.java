@@ -16,7 +16,7 @@ public class TemplateEngineTest {
     
     @Before
     public void setUp() throws Exception {
-        map = new EntryMap();
+        map = new EntryMap();////////////////////////////
         engine = new TemplateEngine();
         simpleEngine = new SimpleTemplateEngine();
     }
